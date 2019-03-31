@@ -1,5 +1,4 @@
 .DS_Store
 node_modules/**
-zos.**.json
-package-lock.json
-package.json
+._**
+**/._**
