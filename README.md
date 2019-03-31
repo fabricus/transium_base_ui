@@ -1,4 +1,5 @@
-# Transium User Interface
+# Transium UI Install Guide
 
-Require some npm packages:
-`npm install web3`
+Requires some packages:
+`npm install web3
+npm install ethereum/web3.js#develop`
